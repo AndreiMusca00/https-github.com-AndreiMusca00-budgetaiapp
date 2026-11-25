@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Xcode settings specific to each developer
+xcuserdata/
+*.xcuserstate
+
+# Local build products and test results
+/build/
+/DerivedData/
+*.xcresult/
